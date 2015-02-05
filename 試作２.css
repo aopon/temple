@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrap{
+
+margin:50px 40px;
+height:auto;
+
+}
+
+#header{
+border:solid 1px #000;	
+margin-bottom:30px;
+
+}
+
+#gnav{
+float:right;
+width:200px;
+height:500px;
+list-style:none;
+border:solid 1px #000;	
+margin-bottom:30px;	
+}
+
+#main{
+margin-right:230px;
+height:500px;
+border:solid 1px #000;	
+margin-bottom:30px;
+}
+
+#footer{
+border:solid 1px #000;		
+}
